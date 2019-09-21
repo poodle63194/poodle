@@ -1,0 +1,5 @@
+body{background-color: #DEC397;}
+#wrapper{width=100%; height=auto; border:1px blue solid;}
+.container{width:900px; height:540px;
+  background: url('../images/bg_panel.png');
+background-size:100%; }
